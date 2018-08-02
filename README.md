@@ -1,1 +1,2 @@
-# Sams-Teach-Yourself-Data-Structures-Algorithms-Robert-Lafore
+## Sams-Teach-Yourself-Data-Structures-Algorithms 24 Hours
+### Author: Robert Lafore
